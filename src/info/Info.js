@@ -90,4 +90,4 @@ export const info = {
             image: mock3
         }
     ],
-
+}
