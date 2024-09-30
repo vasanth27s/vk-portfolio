@@ -53,8 +53,8 @@ export const info = {
     ],
     bio: "Hello! I'm VasanthKumar, i am a Full Stack Developer dedicated to crafting seamless and efficient web applications. With a strong grasp of both front-end and back-end technologies, I excel at creating user-friendly interfaces and robust server-side logic. Passionate about continuous learning, I believe in the transformative power of artificial intelligence in shaping our future. Let's collaborate to bring your innovative ideas to life!",
     skills: {
-        proficientWith: ['HTML', 'CSS', 'JavaScript', 'React JS', 'bootstrap', 'Node JS', 'Express JS', 'Mongo DB or Mongoose', 'MY SQL'],
-        exposedTo: ['SQL', 'python', 'PHP', 'Python DSA','C',]
+        proficientWith: ['HTML', 'CSS', 'JavaScript', 'React JS', 'bootstrap', 'Node JS', 'Express JS', 'Mongo DB or Mongoose', 'MY SQL','AWS'],
+        exposedTo: ['SQL', 'python', 'PHP', 'Python DSA','C','Power BI','Linux']
     },
     hobbies: [
         {
